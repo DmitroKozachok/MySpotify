@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\ui\\pages\\enteraccountinfopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|solutionrelative:ui\\pages\\enteraccountinfopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D851B03C-D644-4507-BF64-AEB0E2BF5432}|DLL\\DAL.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\dll\\interfaces\\ispotifyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D851B03C-D644-4507-BF64-AEB0E2BF5432}|DLL\\DAL.csproj|solutionrelative:dll\\interfaces\\ispotifyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\ui\\startwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|solutionrelative:ui\\startwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115531F4-365C-4B94-A4EA-F4481632F75E}|BLL\\BLL.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\bll\\services\\spotifyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115531F4-365C-4B94-A4EA-F4481632F75E}|BLL\\BLL.csproj|solutionrelative:bll\\services\\spotifyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\ui\\pages\\loginaccountpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|solutionrelative:ui\\pages\\loginaccountpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\ui\\pages\\loginaccountpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|solutionrelative:ui\\pages\\loginaccountpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|solutionrelative:ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\ui\\startwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|solutionrelative:ui\\startwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\ui\\pages\\createaccountpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|solutionrelative:ui\\pages\\createaccountpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\ui\\pages\\createaccountpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|solutionrelative:ui\\pages\\createaccountpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\ui\\pages\\enteraccountinfopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|solutionrelative:ui\\pages\\enteraccountinfopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5C27735-17BD-46F6-972D-DA029D96D4F5}|UI\\UI.csproj|solutionrelative:ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D851B03C-D644-4507-BF64-AEB0E2BF5432}|DLL\\DAL.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\dll\\repository\\spotifyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D851B03C-D644-4507-BF64-AEB0E2BF5432}|DLL\\DAL.csproj|solutionrelative:dll\\repository\\spotifyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115531F4-365C-4B94-A4EA-F4481632F75E}|BLL\\BLL.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\bll\\interfaces\\ispotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115531F4-365C-4B94-A4EA-F4481632F75E}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\ispotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115531F4-365C-4B94-A4EA-F4481632F75E}|BLL\\BLL.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\bll\\services\\spotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115531F4-365C-4B94-A4EA-F4481632F75E}|BLL\\BLL.csproj|solutionrelative:bll\\services\\spotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115531F4-365C-4B94-A4EA-F4481632F75E}|BLL\\BLL.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\bll\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115531F4-365C-4B94-A4EA-F4481632F75E}|BLL\\BLL.csproj|solutionrelative:bll\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D851B03C-D644-4507-BF64-AEB0E2BF5432}|DLL\\DAL.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\dll\\data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D851B03C-D644-4507-BF64-AEB0E2BF5432}|DLL\\DAL.csproj|solutionrelative:dll\\data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D851B03C-D644-4507-BF64-AEB0E2BF5432}|DLL\\DAL.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\dll\\data\\spotifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D851B03C-D644-4507-BF64-AEB0E2BF5432}|DLL\\DAL.csproj|solutionrelative:dll\\data\\spotifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D851B03C-D644-4507-BF64-AEB0E2BF5432}|DLL\\DAL.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\dll\\constants\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D851B03C-D644-4507-BF64-AEB0E2BF5432}|DLL\\DAL.csproj|solutionrelative:dll\\constants\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115531F4-365C-4B94-A4EA-F4481632F75E}|BLL\\BLL.csproj|c:\\users\\dmitro\\source\\repos\\spotify\\bll\\modeldto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115531F4-365C-4B94-A4EA-F4481632F75E}|BLL\\BLL.csproj|solutionrelative:bll\\modeldto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpotifyAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\BLL\\Services\\SpotifyAPIService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\SpotifyAPIService.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\BLL\\Services\\SpotifyAPIService.cs",
+              "RelativeToolTip": "BLL\\Services\\SpotifyAPIService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAhwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:14:39.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\StartWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\StartWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\StartWindow.xaml.cs",
+              "RelativeToolTip": "UI\\StartWindow.xaml.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv10AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:51:33.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\StartWindow.xaml",
+              "RelativeDocumentMoniker": "UI\\StartWindow.xaml",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\StartWindow.xaml",
+              "RelativeToolTip": "UI\\StartWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-30T09:49:44.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISpotifyService.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\BLL\\Interfaces\\ISpotifyService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\ISpotifyService.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\BLL\\Interfaces\\ISpotifyService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\ISpotifyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:54:47.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\BLL\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BLL\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\BLL\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "BLL\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:50:47.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\BLL\\ModelDTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\ModelDTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\BLL\\ModelDTO\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\ModelDTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:40:31.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISpotifyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\DLL\\Interfaces\\ISpotifyRepository.cs",
+              "RelativeDocumentMoniker": "DLL\\Interfaces\\ISpotifyRepository.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\DLL\\Interfaces\\ISpotifyRepository.cs",
+              "RelativeToolTip": "DLL\\Interfaces\\ISpotifyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:28:22.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SpotifyService.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\BLL\\Services\\SpotifyService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\SpotifyService.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\BLL\\Services\\SpotifyService.cs",
+              "RelativeToolTip": "BLL\\Services\\SpotifyService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:54:03.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpotifyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\DLL\\Repository\\SpotifyRepository.cs",
+              "RelativeDocumentMoniker": "DLL\\Repository\\SpotifyRepository.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\DLL\\Repository\\SpotifyRepository.cs",
+              "RelativeToolTip": "DLL\\Repository\\SpotifyRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:21:51.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\DLL\\Constants\\AppDatabase.cs",
+              "RelativeDocumentMoniker": "DLL\\Constants\\AppDatabase.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\DLL\\Constants\\AppDatabase.cs",
+              "RelativeToolTip": "DLL\\Constants\\AppDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:27:57.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpotifyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\DLL\\Data\\SpotifyDbContext.cs",
+              "RelativeDocumentMoniker": "DLL\\Data\\SpotifyDbContext.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\DLL\\Data\\SpotifyDbContext.cs",
+              "RelativeToolTip": "DLL\\Data\\SpotifyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:20:36.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\DLL\\Data\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "DLL\\Data\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\DLL\\Data\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "DLL\\Data\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:06:06.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnterAccountInfoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\Pages\\EnterAccountInfoPage.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Pages\\EnterAccountInfoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\Pages\\EnterAccountInfoPage.xaml.cs",
+              "RelativeToolTip": "UI\\Pages\\EnterAccountInfoPage.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:55:38.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnterAccountInfoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\Pages\\EnterAccountInfoPage.xaml",
+              "RelativeDocumentMoniker": "UI\\Pages\\EnterAccountInfoPage.xaml",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\Pages\\EnterAccountInfoPage.xaml",
+              "RelativeToolTip": "UI\\Pages\\EnterAccountInfoPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-29T10:52:34.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateAccountPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\Pages\\CreateAccountPage.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Pages\\CreateAccountPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\Pages\\CreateAccountPage.xaml.cs",
+              "RelativeToolTip": "UI\\Pages\\CreateAccountPage.xaml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:00:49.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateAccountPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\Pages\\CreateAccountPage.xaml",
+              "RelativeDocumentMoniker": "UI\\Pages\\CreateAccountPage.xaml",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\Pages\\CreateAccountPage.xaml",
+              "RelativeToolTip": "UI\\Pages\\CreateAccountPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-29T09:58:34.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginAccountPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\Pages\\LoginAccountPage.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Pages\\LoginAccountPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\Pages\\LoginAccountPage.xaml.cs",
+              "RelativeToolTip": "UI\\Pages\\LoginAccountPage.xaml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:27:20.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginAccountPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\Pages\\LoginAccountPage.xaml",
+              "RelativeDocumentMoniker": "UI\\Pages\\LoginAccountPage.xaml",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\Pages\\LoginAccountPage.xaml",
+              "RelativeToolTip": "UI\\Pages\\LoginAccountPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T13:09:03.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\MainWindow.xaml",
+              "RelativeToolTip": "UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-27T18:35:29.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dmitro\\source\\repos\\Spotify\\UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:35:28.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

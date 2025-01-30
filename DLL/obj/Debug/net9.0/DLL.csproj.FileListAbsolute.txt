@@ -1,0 +1,11 @@
+C:\Users\Dmitro\source\repos\Spotify\DLL\bin\Debug\net9.0\DLL.deps.json
+C:\Users\Dmitro\source\repos\Spotify\DLL\bin\Debug\net9.0\DLL.dll
+C:\Users\Dmitro\source\repos\Spotify\DLL\bin\Debug\net9.0\DLL.pdb
+C:\Users\Dmitro\source\repos\Spotify\DLL\obj\Debug\net9.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitro\source\repos\Spotify\DLL\obj\Debug\net9.0\DLL.AssemblyInfoInputs.cache
+C:\Users\Dmitro\source\repos\Spotify\DLL\obj\Debug\net9.0\DLL.AssemblyInfo.cs
+C:\Users\Dmitro\source\repos\Spotify\DLL\obj\Debug\net9.0\DLL.csproj.CoreCompileInputs.cache
+C:\Users\Dmitro\source\repos\Spotify\DLL\obj\Debug\net9.0\DLL.dll
+C:\Users\Dmitro\source\repos\Spotify\DLL\obj\Debug\net9.0\refint\DLL.dll
+C:\Users\Dmitro\source\repos\Spotify\DLL\obj\Debug\net9.0\DLL.pdb
+C:\Users\Dmitro\source\repos\Spotify\DLL\obj\Debug\net9.0\ref\DLL.dll
