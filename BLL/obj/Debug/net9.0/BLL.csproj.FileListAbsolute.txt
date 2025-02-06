@@ -13,3 +13,4 @@ C:\Users\Dmitro\source\repos\Spotify\BLL\obj\Debug\net9.0\BLL.dll
 C:\Users\Dmitro\source\repos\Spotify\BLL\obj\Debug\net9.0\refint\BLL.dll
 C:\Users\Dmitro\source\repos\Spotify\BLL\obj\Debug\net9.0\BLL.pdb
 C:\Users\Dmitro\source\repos\Spotify\BLL\obj\Debug\net9.0\ref\BLL.dll
+C:\Users\Dmitro\source\repos\Spotify\BLL\obj\Debug\net9.0\BLL.sourcelink.json

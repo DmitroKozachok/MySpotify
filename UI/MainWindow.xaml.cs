@@ -18,9 +18,17 @@ namespace UI
     public partial class MainWindow : Window
     {
         private SpotifyService _spotifyService;
+        private SpotifyAPIService _spotifyAPIService;
         private UserDTO _user;
 
         private StartWindow _startWindow;
+
+        private MusicSearchPage musicSearchPage;
+        private ArtistSearchPage artistSearchPage;
+        private AlbumSearchPage albumSearchPage;
+        private UserMusicPage userMusicPage;
+        private UserAlbumPage userAlbumPage;
+        private UserArtistPage userArtistPage;
 
         public MainWindow()
         {
@@ -31,38 +39,73 @@ namespace UI
             _startWindow.ShowDialog();
             _user = _startWindow.GetUser();
 
-            if(_user == null)
+            if (_user == null)
                 this.Close();
+
+            _spotifyAPIService = new SpotifyAPIService(_user);
 
             InitializeComponent();
 
-            //this.startFrame.Content = new LoginAccountPage();
-            //this.startFrame.Content = new CreateAccountPage();
-            //this.startFrame.Content = new EnterAccountInfoPage();
-
-            //SpotifyService spotifyService = new SpotifyService();
-
-            //UserDTO userDTO = new UserDTO() {
-            //    //Id = 2,
-            //    Email = "testc@gmail.com",
-            //    Login = "Test",
-            //    Password = "Password",
-            //    ClientID = "TestID",
-            //    ClientSecret = "Secret"
-            //};
-
-            ////spotifyService.AddUser(userDTO);
-            //StartWindow e =  new StartWindow();
-            //e.ShowDialog();
-            //LoadUsersAsync();
+            musicSearchPage = new MusicSearchPage(_spotifyService, _spotifyAPIService);
+            artistSearchPage = new ArtistSearchPage(_spotifyService, _spotifyAPIService);
+            albumSearchPage = new AlbumSearchPage(_spotifyService, _spotifyAPIService);
+            userMusicPage = new UserMusicPage(_spotifyService, _spotifyAPIService);
+            userAlbumPage = new UserAlbumPage(_spotifyService, _spotifyAPIService);
+            userArtistPage = new UserArtistPage(_spotifyService, _spotifyAPIService);
         }
 
-        //private async void LoadUsersAsync()
-        //{
-        //    SpotifyService spotifyService = new SpotifyService();
-        //    var users = await spotifyService.GetAllUser();
+        private void AnimationBorder_MouseEnter(object sender, MouseEventArgs e)
+        {
+            if (sender is Border)
+            {
+                Border? border = sender as Border;
+                border.Background = new SolidColorBrush((Color)ColorConverter.ConvertFromString("#3be477"));
+                border.Margin = new Thickness(0, 5, 0, 5);
+            }
+        }
 
-        //    MessageBox.Show(users.Count.ToString());
-        //}
+        private void AnimationBorder_MouseLeave(object sender, MouseEventArgs e)
+        {
+            if (sender is Border)
+            {
+                Border? border = sender as Border;
+                border.Background = new SolidColorBrush((Color)ColorConverter.ConvertFromString("#1ed760"));
+                border.Margin = new Thickness(5, 5, 5, 5);
+            }
+        }
+
+        private async void SearchMusic_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+            await musicSearchPage.SearchMusic();
+            this.mainFrame.Content= musicSearchPage;
+        }
+        private async void SearchArtist_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+            await artistSearchPage.SearchArtist();
+            this.mainFrame.Content = artistSearchPage;
+        }
+        private async void SearchAlbum_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+            await albumSearchPage.SearchAlbum();
+            this.mainFrame.Content = albumSearchPage;
+        }
+
+        private async void UserMusic_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+            await userMusicPage.CreatUserMusic();
+            this.mainFrame.Content = userMusicPage;
+        }
+
+        private async void UserAlbum_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+            await userAlbumPage.CreateUserAlbum();
+            this.mainFrame.Content = userAlbumPage;
+        }
+
+        private async void UserArtist_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+            await userArtistPage.CreateUserArtist();
+            this.mainFrame.Content = userArtistPage;
+        }
     }
 }

@@ -47,3 +47,17 @@ C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\UI.genruntimeco
 C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\ref\UI.dll
 C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\StartWindow.g.cs
 C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\StartWindow.baml
+C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\UI.sourcelink.json
+C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\Pages\MusicSearchPage.g.cs
+C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\Pages\MusicSearchPage.baml
+C:\Users\Dmitro\source\repos\Spotify\UI\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\Pages\ArtistSearchPage.g.cs
+C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\Pages\ArtistSearchPage.baml
+C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\Pages\AlbumSearchPage.g.cs
+C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\Pages\AlbumSearchPage.baml
+C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\Pages\UserMusicPage.g.cs
+C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\Pages\UserMusicPage.baml
+C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\Pages\UserAlbumPage.g.cs
+C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\Pages\UserAlbumPage.baml
+C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\Pages\UserArtistPage.g.cs
+C:\Users\Dmitro\source\repos\Spotify\UI\obj\Debug\net9.0-windows\Pages\UserArtistPage.baml

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP
 C:\Users\Dmitro\source\repos\Spotify\UI\App.xaml
-51977734420
+111479044558
 
-101530523080
-217-1977309719
-MainWindow.xaml;Pages\CreateAccountPage.xaml;Pages\EnterAccountInfoPage.xaml;Pages\LoginAccountPage.xaml;StartWindow.xaml;
+162058387515
+218-1785707316
+MainWindow.xaml;Pages\AlbumSearchPage.xaml;Pages\ArtistSearchPage.xaml;Pages\CreateAccountPage.xaml;Pages\EnterAccountInfoPage.xaml;Pages\LoginAccountPage.xaml;Pages\MusicSearchPage.xaml;Pages\UserAlbumPage.xaml;Pages\UserArtistPage.xaml;Pages\UserMusicPage.xaml;StartWindow.xaml;
 
 False
 

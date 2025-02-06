@@ -1,8 +1,14 @@
 ﻿
 
 FC:\Users\Dmitro\source\repos\Spotify\UI\MainWindow.xaml;;
+FC:\Users\Dmitro\source\repos\Spotify\UI\Pages\AlbumSearchPage.xaml;;
+FC:\Users\Dmitro\source\repos\Spotify\UI\Pages\ArtistSearchPage.xaml;;
 FC:\Users\Dmitro\source\repos\Spotify\UI\Pages\CreateAccountPage.xaml;;
 FC:\Users\Dmitro\source\repos\Spotify\UI\Pages\EnterAccountInfoPage.xaml;;
 FC:\Users\Dmitro\source\repos\Spotify\UI\Pages\LoginAccountPage.xaml;;
+FC:\Users\Dmitro\source\repos\Spotify\UI\Pages\MusicSearchPage.xaml;;
+FC:\Users\Dmitro\source\repos\Spotify\UI\Pages\UserAlbumPage.xaml;;
+FC:\Users\Dmitro\source\repos\Spotify\UI\Pages\UserArtistPage.xaml;;
+FC:\Users\Dmitro\source\repos\Spotify\UI\Pages\UserMusicPage.xaml;;
 FC:\Users\Dmitro\source\repos\Spotify\UI\StartWindow.xaml;;
 

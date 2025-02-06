@@ -8,6 +8,6 @@
         Icon="Images/SpotifyIcon.ico"
         Title="Spotify" Height="500" Width="500">
     <Grid>
-        <Frame NavigationUIVisibility="Visible" x:Name="startFrame"></Frame>
+        <Frame NavigationUIVisibility="Hidden" x:Name="startFrame"></Frame>
     </Grid>
 </Window>

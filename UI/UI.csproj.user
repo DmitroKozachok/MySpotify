@@ -7,6 +7,12 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Pages\AlbumSearchPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\ArtistSearchPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Pages\CreateAccountPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -14,6 +20,18 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Pages\LoginAccountPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\MusicSearchPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\UserAlbumPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\UserArtistPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\UserMusicPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="StartWindow.xaml.cs">
@@ -24,6 +42,12 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Pages\AlbumSearchPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\ArtistSearchPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Pages\CreateAccountPage.xaml">
       <SubType>Designer</SubType>
     </Page>
@@ -31,6 +55,18 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Pages\LoginAccountPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\MusicSearchPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\UserAlbumPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\UserArtistPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\UserMusicPage.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="StartWindow.xaml">

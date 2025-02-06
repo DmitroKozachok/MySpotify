@@ -9,6 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Images\dagger.png" />
+    <None Remove="Images\dandruff.png" />
     <None Remove="Images\Spotify.png" />
     <None Remove="Images\SpotifyIcon.ico" />
   </ItemGroup>
@@ -18,6 +20,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="Images\dagger.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\dandruff.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="Images\Spotify.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>

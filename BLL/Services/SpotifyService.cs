@@ -69,5 +69,50 @@ namespace BLL.Services
             }
             return true;
         }
+
+        public async Task<IEnumerable<MusicDTO>> GetUserMusic(UserDTO user)
+        {
+            return (await _repository.GetUserMusic(_mapper.Map<UserEntity>(user))).Select(x => _mapper.Map<MusicDTO>(x)).ToList();
+        }
+
+        public async Task AddUserMusic(UserDTO user, MusicDTO music)
+        {
+            await _repository.AddUserMusic(_mapper.Map<UserEntity>(user), _mapper.Map<MusicEntity>(music));
+        }
+
+        public async Task RemoveUserMusic(UserDTO user, MusicDTO music)
+        {
+            await _repository.RemoveUserMusic(_mapper.Map<UserEntity>(user), _mapper.Map<MusicEntity>(music));
+        }
+
+        public async Task<IEnumerable<AlbumDTO>> GetUserAlbum(UserDTO user)
+        {
+            return (await _repository.GetUserAlbum(_mapper.Map<UserEntity>(user))).Select(x => _mapper.Map<AlbumDTO>(x)).ToList();
+        }
+
+        public async Task AddUserAlbum(UserDTO user, AlbumDTO album)
+        {
+            await _repository.AddUserAlbum(_mapper.Map<UserEntity>(user), _mapper.Map<AlbumEntity>(album));
+        }
+
+        public async Task RemoveUserAlbum(UserDTO user, AlbumDTO album)
+        {
+            await _repository.RemoveUserAlbum(_mapper.Map<UserEntity>(user), _mapper.Map<AlbumEntity>(album));
+        }
+
+        public async Task<IEnumerable<ArtistDTO>> GetUserArtist(UserDTO user)
+        {
+            return (await _repository.GetUserArtist(_mapper.Map<UserEntity>(user))).Select(x => _mapper.Map<ArtistDTO>(x)).ToList();
+        }
+
+        public async Task AddUserArtist(UserDTO user, ArtistDTO artist)
+        {
+            await _repository.AddUserArtist(_mapper.Map<UserEntity>(user), _mapper.Map<ArtistEntity>(artist));
+        }
+
+        public async Task RemoveUserArtist(UserDTO user, ArtistDTO music)
+        {
+            await _repository.RemoveUserArtist(_mapper.Map<UserEntity>(user), _mapper.Map<ArtistEntity>(music));
+        }
     }
 }
